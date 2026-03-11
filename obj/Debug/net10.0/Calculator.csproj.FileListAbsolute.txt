@@ -1,0 +1,14 @@
+C:\Users\marsa\source\repos\Calculator\bin\Debug\net10.0\Calculator.exe
+C:\Users\marsa\source\repos\Calculator\bin\Debug\net10.0\Calculator.deps.json
+C:\Users\marsa\source\repos\Calculator\bin\Debug\net10.0\Calculator.runtimeconfig.json
+C:\Users\marsa\source\repos\Calculator\bin\Debug\net10.0\Calculator.dll
+C:\Users\marsa\source\repos\Calculator\bin\Debug\net10.0\Calculator.pdb
+C:\Users\marsa\source\repos\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marsa\source\repos\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\marsa\source\repos\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+C:\Users\marsa\source\repos\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\marsa\source\repos\Calculator\obj\Debug\net10.0\Calculator.dll
+C:\Users\marsa\source\repos\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+C:\Users\marsa\source\repos\Calculator\obj\Debug\net10.0\Calculator.pdb
+C:\Users\marsa\source\repos\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
+C:\Users\marsa\source\repos\Calculator\obj\Debug\net10.0\ref\Calculator.dll
